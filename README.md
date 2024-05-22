@@ -25,7 +25,7 @@ Install the requirements to have all the necessary libraries for the code exampl
 pip install -r requirements.txt 
 ```
 
-### Set up environment variables
+### Set up environment variables
 
 1. Create a file `env` from the `env.template`
     ```bash
